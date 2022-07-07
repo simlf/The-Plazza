@@ -19,3 +19,6 @@ make
 - There are 4 differents types of pizza : ```regina```, ```margarita```, ```americana``` and ```fantasia```
 
 - You can also use the ``` status ``` command in order to get infos on the current kitchens and ingredients.
+
+I made this Epitech project with 1 teammate:
+- [Victor Harri-Chal](https://github.com/VictorHarri-Chal "VictorHarri-Chal").
